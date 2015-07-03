@@ -1,0 +1,41 @@
+CONSENTIMENTO LIVRE E ESCLARECIDO MENDELICS
+
+ESTE TESTE É DE RESPONSABILIDADE DA MENDELICS ANÁLISE GENÔMICA S.A., CNPJ 15.519.353/0001-70, REGISTRO DO CONSELHO REGIONAL DE MEDICINA DO ESTADO DE SÃO PAULO NÚMERO 955.471. MÉDICO RESPONSÁVEL: PROF. DR. FERNANDO KOK, CRM-SP 32.255.
+
+1. Qual a finalidade do exame?
+
+O exame tem como objetivo responder a uma pergunta clínica e atenderá à requisição do médico solicitante. As informações contidas no laudo serão necessariamente combinadas com a história clínica, exame físico e/ou outros exames diagnósticos na definição do diagnóstico e conduta médica.
+
+2. Todas as variantes genéticas identificadas serão relatadas?
+
+O genoma de cada pessoa possui milhões de variantes genéticas. Contudo, a maioria destas variantes não é relacionada a uma doença, não tem até o momento relevância definida ou está associada a uma doença sem relação com a pergunta médica.
+
+Estes achados não são o foco do exame e não serão ativamente buscados. No entanto, achados secundários de alta relevância para a saúde do paciente podem identificados em raras ocasiões apesar de a nossa análise ser guiada pelo quadro clínico e requisição médica. Nestes casos, o laudo conterá a informação encontrada.
+
+A critério da equipe médica da Mendelics variantes de significado incerto poderão ser incluídas no laudo. O paciente e/ou o médico também poderão receber, caso solicitem, uma cópia do arquivo contendo a lista de todas as variantes reveladas pelo sequenciamento. Este arquivo não conterá informações sobre a interpretação das variantes identificadas, porém poderá ser usado para tal fim no futuro.
+
+3. Quais são as limitações deste exame?
+
+As técnicas de análise genômica são recentes e estão sujeitas a ajustes periódicos para aumentar a acurácia do exame. Além disso, o significado clínico das variantes é constantemente atualizado acompanhando o avanço do conhecimento científico. Todos os anos são publicadas centenas de novas descobertas sobre a relação dos genes com a saúde e a doença. Em alguns casos, interpretações podem mudar com novas descobertas científicas e portanto os resultados não devem ser tratados como imutáveis.
+
+As técnicas atuais de análise genômica cobrem entre 95 e 99% das sequências de interesse. É possível que uma análise não identifique a causa da doença investigada. Mediante solicitação médica, uma nova análise pode ser realizada pela Mendelics. A Mendelics poderá cobrar, a seu critério, por esta reanálise ou outra análise não relacionada à pergunta inicial.
+
+Outra informação possivelmente indesejada é a rara identificação de não-paternidade. Não relatamos este achado, exceto quando diretamente pertinente à solicitação médica. Os parentes mais próximos do paciente compartilham informações genéticas e esta análise poderá revelá-las.
+
+4. Quem receberá o resultado dos exames?
+
+O médico solicitante e o paciente receberão o laudo em forma digital e/ou por correio. O médico solicitante será responsável por apresentar o resultado ao paciente ou seu responsável legal. Caso o paciente ou o médico solicitante desejem, o laudo poderá ser discutido com o paciente em uma entrevista pós-teste, realizada na sede da Mendelics. Contudo, o seguimento e conduta do caso são de exclusiva responsabilidade do médico solicitante e não poderão ser feitos pela equipe médica da Mendelics.
+
+5. Como o DNA será guardado e usado?
+
+As amostras de DNA que serão utilizadas não contém identificadores pessoais, somente um código alfanumérico. A amostra biológica será utilizada somente para o teste solicitado e/ou testes confirmatórios. Para a realização de novos testes, é obrigatória a obtenção de novo consentimento escrito do paciente ou responsável legal. O laboratório não é um serviço de armazenamento de material biológico e a amostra de DNA pode não estar disponível ou não preencher critérios de qualidade para novos estudos no futuro.
+
+6. Como minha informação genética será guardada e usada?
+
+Os arquivos digitais não contém identificadores pessoais. Os dados genéticos podem ser ligados ao paciente somente pela equipe médica responsável por sua execução. Os resultados deste exame são confidenciais. Eles poderão ser liberados para terceiros apenas mediante o consentimento escrito do paciente ou de seu responsável legal.
+
+Nos comprometemos a armazenar o arquivo digital bruto do sequenciamento (FASTQ) por no mínimo 2 (dois) anos e o arquivo de variantes (VCF) por no mínimo 5 (cinco) anos a partir da data do exame. Novas análises genéticas poderão ser eventualmente feitas usando este arquivo digital levando-se em conta os limites das técnicas atuais.
+
+O resultado poderá continuar a ser estudado de forma completamente anônima (isto é, com remoção irreversível de todos os identificadores pessoais) em pesquisas genéticas ou de bioinformática, para melhoria de processos e produtos, tanto pela Mendelics como por instituições colaboradoras. Não haverá possibilidade das informações geradas por estas análises serem disponibilizadas ao paciente, uma vez que os identificadores pessoais da amostra serão apagados.
+
+Da mesma forma, o paciente não poderá ser recompensado financeiramente pelo uso de sua sequência nestas pesquisas e não tem direito a quaisquer produtos gerados por estas análises. Os resultados destas análises poderão ser publicados em revistas médicas e científicas e depositados em bancos públicos de variantes genéticas, para contribuir com o avanço do conhecimento médico e da ciência e beneficiar outras pessoas com a mesma doença.
