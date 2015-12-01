@@ -14,6 +14,8 @@ Estes achados não são o foco do exame e não serão ativamente buscados. No en
 
 A critério da equipe médica da Mendelics variantes de significado incerto poderão ser incluídas no laudo. O paciente e/ou o médico também poderão receber, caso solicitem, uma cópia do arquivo contendo a lista de todas as variantes reveladas pelo sequenciamento. Este arquivo não conterá informações sobre a interpretação das variantes identificadas, porém poderá ser usado para tal fim no futuro.
 
+A critério da equipe médica da Mendelics a análise poderá ser expandida para genes potencialmente pertinentes à requisição do médico solicitante sem que isso implique em custo adicional.
+
 3. Quais são as limitações deste exame?
 
 As técnicas de análise genômica são recentes e estão sujeitas a ajustes periódicos para aumentar a acurácia do exame. Além disso, o significado clínico das variantes é constantemente atualizado acompanhando o avanço do conhecimento científico. Todos os anos são publicadas centenas de novas descobertas sobre a relação dos genes com a saúde e a doença. Em alguns casos, interpretações podem mudar com novas descobertas científicas e portanto os resultados não devem ser tratados como imutáveis.
