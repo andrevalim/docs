@@ -1,0 +1,35 @@
+CONSENTIMENTO LIVRE E ESCLARECIDO MENDELICS
+
+ESTE TESTE É DE RESPONSABILIDADE DA MENDELICS ANÁLISE GENÔMICA S.A., CNPJ 15.519.353/0001-70, REGISTRO DO CONSELHO REGIONAL DE MEDICINA DO ESTADO DE SÃO PAULO NÚMERO 955.471. MÉDICO RESPONSÁVEL: PROF. DR. FERNANDO KOK, CRM-SP 32.255.
+
+1. Qual a finalidade do exame?
+
+O exame Pré-natal Não-invasivo (NIPT) tem como objetivo indicar, através da análise do sangue materno de grávidas com mais 10 semanas de gestação, o risco de haver alterações no número dos cromossomos 13, 18, 21 e sexuais no feto. O NIPT é um exame de triagem. Ele aponta probabilidades, não fazendo diagnósticos definitivos. Isto significa que, no caso de resultado positivo, está indicada confirmação diagnóstica por outros métodos, a serem avaliados com seu obstetra. As informações contidas no laudo serão necessariamente combinadas com a história clínica, exame físico e/ou outros exames diagnósticos na definição do diagnóstico e conduta médica.
+
+2. Quais são as limitações deste exame?
+
+Este teste foi desenvolvido para detectar aneuploidias (alterações do número de cromossomos) e é validado para os cromossomos 13, 18, 21, X e Y. O teste é validado para gestações únicas e para gestações gemelares com idade gestacional de ao menos 10 semanas, estimada pela data da última menstruação (DUM) ou pela ultrassonografia de primeiro trimestre. Este resultado não elimina o risco para outras anomalias cromossômicas, malformações e/ou doenças genéticas.
+
+Este é um exame de triagem e portanto um resultado negativo não exclui de forma definitiva as anomalias cromossômicas investigadas: trissomia 13, trissomia 18, trissomia 21, monossomia X e outras alterações numéricas dos cromossomos sexuais. Da mesma maneira, um resultado positivo pode em raras situações não se confirmar. Quando uma aneuploidia é detectada em gravidez gemelar, a condição de cada feto não pode ser determinada. Embora a presença ou ausência de material do cromossomo Y possa ser relatada em uma gravidez gemelar, a ocorrência de aneuploidias dos cromossomos sexuais não podem ser avaliadas. Há uma pequena possibilidade de que os resultados do teste não reflitam os cromossomos do feto, mas sim as alterações cromossômicas da placenta (mosaicismo confinado à placenta) ou da mãe (mosaicismo cromossômico materno). Mosaicismo cromossômico pode não ser identificado neste exame.
+
+O exame possue desempenho estatístico diferente dependendo da alteração cromossômica. Trissomia do cromossomo 13 apresenta sensibilidade de 87,5% (intervalo de confiança de 61,7% a 98,5%) e especificidade de mais de 99,9% (IC 99,2% - 100%). Trissomia do cromossomo 18 apresenta sensibilidade de 97,4% (IC 86,2% a 99,9%) e especificidade de 99,6% (IC 98,5% a 100%). Trissomia do cromossomo 21 apresenta sensibilidade de mais de 99,9% (IC 96,0% a 100%) e especificidade de 99,8% (IC 98,7% a 100%). Monossomia do cromossomo X apresenta sensibilidade de 95,0% (IC 75,1% a 99,9%) e especificidade de 99,0% (IC 97,6% a 99,7%). Caso detectadas outras anomalias no número de cromossomos sexuais serão informadas, porém não há dados suficientes para o cálculo de sua sensibilidade e especificidade.
+
+A identificação do provável sexo fetal, quando XX (feminino), tem sensibilidade de 97,6% (IC 94,8% a 99,1%) e especificidade de 99,2% (IC 97,2% a 99,9%). Quando XY (masculino), a sensibilidade é de 99,1% (IC 96,9% a 99,9%) e especificidade de 98.9% (IC 96,9% a 99,8%).
+
+3. Quem receberá o resultado dos exames?
+
+O médico solicitante e o paciente receberão o laudo em forma digital e/ou por correio. O médico solicitante será responsável por apresentar o resultado ao paciente ou seu responsável legal. O seguimento e conduta do caso são de exclusiva responsabilidade do médico solicitante e não poderão ser feitos pela equipe médica da Mendelics. Qualquer teste diagnóstico deve ser interpretado no contexto de todos os dados clínicos disponíveis.
+
+4. Como o DNA será guardado e usado?
+
+As amostras de DNA que serão utilizadas não contém identificadores pessoais, somente um código alfanumérico. A amostra biológica será utilizada somente para o teste solicitado e/ou testes confirmatórios. Para a realização de novos testes, é obrigatória a obtenção de novo consentimento escrito do paciente ou responsável legal. O laboratório não é um serviço de armazenamento de material biológico e a amostra de DNA pode não estar disponível ou não preencher critérios de qualidade para novos estudos no futuro.
+
+5. Como minha informação genética será guardada e usada?
+
+Os arquivos digitais não contém identificadores pessoais. Os dados genéticos podem ser ligados ao paciente somente pela equipe médica responsável por sua execução. Os resultados deste exame são confidenciais. Eles poderão ser liberados para terceiros apenas mediante o consentimento escrito do paciente ou de seu responsável legal.
+
+Nos comprometemos a armazenar o arquivo digital bruto do sequenciamento (FASTQ) por no mínimo 2 (dois) anos a partir da data do exame. Novas análises genéticas poderão ser eventualmente feitas usando este arquivo digital levando-se em conta os limites das técnicas atuais.
+
+O resultado poderá continuar a ser estudado de forma completamente anônima (isto é, com remoção irreversível de todos os identificadores pessoais) em pesquisas genéticas ou de bioinformática, para melhoria de processos e produtos, tanto pela Mendelics como por instituições colaboradoras. Não haverá possibilidade das informações geradas por estas análises serem disponibilizadas ao paciente, uma vez que os identificadores pessoais da amostra serão apagados.
+
+Da mesma forma, o paciente não poderá ser recompensado financeiramente pelo uso de sua sequência nestas pesquisas e não tem direito a quaisquer produtos gerados por estas análises. Os resultados destas análises poderão ser publicados em revistas médicas e científicas e depositados em bancos públicos de variantes genéticas, para contribuir com o avanço do conhecimento médico e da ciência e beneficiar outras pessoas com a mesma doença.
